@@ -1,7 +1,19 @@
 package unit1;
 
+import java.util.Scanner;
+
+/**
+ * ExampleProgram.java
+ * This is a sample program to show you the layout of the game BINGO
+ * September 27, 2024
+ * @author Jude Smith
+ */
+
+
 public class SchoolTimetble  {
 
+	
+	
 	public static void main(String[] args) {
 		
 		System.out.println("Bingo Card");

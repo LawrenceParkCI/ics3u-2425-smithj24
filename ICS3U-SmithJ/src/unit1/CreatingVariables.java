@@ -10,10 +10,10 @@ public class CreatingVariables {
 *
 * @param
 */
-public static void main(String[] args) {
-System.out.println("Warm-up");
+ public static void main(String[] args) {
+ System.out.println("Warm-up");
 //Warmup: print your name
-
+ System.out.println("Jude Smith");
 //Warmup: print the calculation for the area of a square with side length 25
 
 
@@ -63,7 +63,7 @@ Once your variable has been given a value, it can then be *referenced* - that is
 */
 
 //Declare and initialize an int variable called myAge that stores your age.
-
+int myAge= 16
 
 //Print it out in a sentence (Hint: remember how we combined text and numbers in a print statement)
 
