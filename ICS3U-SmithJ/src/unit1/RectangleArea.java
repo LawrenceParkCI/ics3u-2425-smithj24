@@ -1,14 +1,14 @@
 package unit1;
 import java.util.Scanner;
 
-public class IntegerVariable {
+public class RectangleArea {
 
 	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
          Scanner sc = new Scanner (System.in);
 		
-         //decalre variables
+         //declare variables
          int length, width, depth;
          
          //get the user input
