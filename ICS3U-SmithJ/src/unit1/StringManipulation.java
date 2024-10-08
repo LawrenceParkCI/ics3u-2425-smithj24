@@ -25,14 +25,18 @@ public class StringManipulation {
 		sc.close();
 		
 		
+		
 		//getting the first and last space
 		int firstSpace = s.indexOf(" ");
 		int lastSpace = s.lastIndexOf(" ");
 		//first and last word
-		System.out.println("")
-		
-		
-		
+		System.out.println("Type in a letter, and press enter>");
+		s = sc.nextLine();
+		System.out.println("This is the first word of the output");
+		firstSpace=sc.nextInt();
+		System.out.println("This is the last letter of the output");
+	    lastSpace=sc.nextInt();
+		sc.close();
 		
 	}
 
